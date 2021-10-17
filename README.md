@@ -34,7 +34,8 @@ Here are the test scores for the models:
 - Decision Tree regressor - 73.9%
 - XGB regressor - 83.03% 
 Random forest regressor model and XGB regressor model performed really well compared to other algorithms.
-## Project Workflow
+## Methodology flowchart
+![pic4](https://github.com/episkey24/Flight-Price-Prediction-System/blob/main/img/Screenshot%20(92).png) <br />
 - PROBLEM DEFINITION
 - DATA LOADING
 - DATA PRE-PROCESSING
