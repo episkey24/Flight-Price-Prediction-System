@@ -43,6 +43,7 @@ Random forest regressor model and XGB regressor model performed really well comp
 - Features - Airline , Date of Journey, Source, destination, Route, Departure time, Arrival time, Duration, Total Stops, Additional info
 ## Novelty
 - Price of flight ticket varies abruptly and it becomes hectic for a user to decide on different deals. A flight fare prediction model will help travellers with the optimal time to plan their travel and understand the trends in the airline industry.
+- Out of 6 supervised ml models, random forest regressor performed really well and thus was selected for this particular problem.
 ## Future Scope
 - Work on larger data
 - Improve front end web design
