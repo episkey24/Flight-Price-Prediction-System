@@ -51,4 +51,4 @@ Random forest regressor model and XGB regressor model performed really well comp
 ## Install and Run on your Machine:
 - Clone this repository or download the zip file.
 - Install the requirements using: ``` pip install -r requirements.txt ```
-- To start the app on the localhost move to the respective directory, run the command: ``` python main.py ```
+- To start the app on the localhost move to the respective directory, run the command: ``` python app.py ```
