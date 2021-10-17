@@ -35,6 +35,18 @@ Here are the test scores for the models:
 - XGB regressor - 83.03% 
 Random forest regressor model and XGB regressor model performed really well compared to other algorithms.
 ## Project Workflow
+- PROBLEM DEFINITION
+- DATA LOADING
+- DATA PRE-PROCESSING
+- FEATURE EXTRACTION
+- EXPLORATORY DATA ANALYSIS
+- DATA ENCODING
+- FEATURE SELECTION
+- MODEL SELECTION
+- HYPERPARAMETER TUNING
+- CREATE A PICKLE FILE
+- BUILD A FLASK APP
+- DEPLOYMENT OF MODEL ON HEROKU
 ## Dataset Info
 - The dataset is taken from Kaggle - (https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh)
 - Dataset contains 10683 rows and 11 columns
