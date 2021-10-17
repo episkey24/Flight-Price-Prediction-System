@@ -36,18 +36,7 @@ Here are the test scores for the models:
 Random forest regressor model and XGB regressor model performed really well compared to other algorithms.
 ## Methodology flowchart
 ![pic4](https://github.com/episkey24/Flight-Price-Prediction-System/blob/main/img/Screenshot%20(92).png) <br />
-- PROBLEM DEFINITION
-- DATA LOADING
-- DATA PRE-PROCESSING
-- FEATURE EXTRACTION
-- EXPLORATORY DATA ANALYSIS
-- DATA ENCODING
-- FEATURE SELECTION
-- MODEL SELECTION
-- HYPERPARAMETER TUNING
-- CREATE A PICKLE FILE
-- BUILD A FLASK APP
-- DEPLOYMENT OF MODEL ON HEROKU
+
 ## Dataset Info
 - The dataset is taken from Kaggle - (https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh)
 - Dataset contains 10683 rows and 11 columns
