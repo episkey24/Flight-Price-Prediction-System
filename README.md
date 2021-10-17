@@ -19,11 +19,11 @@ A machine learning web app that predicts the price of the flight based on severa
 - Airline v/s Price
 ![pic](https://github.com/episkey24/Flight-Price-Prediction-System/blob/main/img/Screenshot%20(389).png) <br />
 - Month v/s Price
-![pic1](https://github.com/episkey24/Flight-Price-Prediction-System/blob/main/img/Screenshot%20(394).png) <br />
+![pic1](https://github.com/episkey24/Flight-Price-Prediction-System/blob/main/img/Screenshot%20(400).png) <br />
 - Source v/s Price
-![pic2](https://github.com/episkey24/Flight-Price-Prediction-System/blob/main/img/Screenshot%20(392).png) <br />
+![pic2](https://github.com/episkey24/Flight-Price-Prediction-System/blob/main/img/Screenshot%20(398).png) <br />
 - Destination v/s Price
-![pic3](https://github.com/episkey24/Flight-Price-Prediction-System/blob/main/img/Screenshot%20(393).png) <br />
+![pic3](https://github.com/episkey24/Flight-Price-Prediction-System/blob/main/img/Screenshot%20(399).png) <br />
 ## Model Selection
 I have tried 6 regressor models of which random forest regressor performed really well.
 Here are the test scores for the models:
