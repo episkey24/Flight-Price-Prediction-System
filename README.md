@@ -24,21 +24,23 @@ A machine learning web app that predicts the price of the flight based on severa
 ![pic2](https://github.com/episkey24/Flight-Price-Prediction-System/blob/main/img/Screenshot%20(392).png) <br />
 - Destination v/s Price
 ![pic3](https://github.com/episkey24/Flight-Price-Prediction-System/blob/main/img/Screenshot%20(393).png) <br />
-## MODEL SELECTION
+## Model Selection
 I have tried 6 regressor models of which random forest regressor performed really well.
 Here are the test scores for the models:
--Random Forest - 83.24%
--KNN - 52.2%
--Ridge regressor - 58.6%
--Lasso regressor - 60.7%
--Decision Tree regressor - 73.9%
--XGB regressor - 83.03% 
+- Random Forest - 83.24%
+- KNN - 52.2%
+- Ridge regressor - 58.6%
+- Lasso regressor - 60.7%
+- Decision Tree regressor - 73.9%
+- XGB regressor - 83.03% 
 Random forest regressor model and XGB regressor model performed really well compared to other algorithms.
-## PROJECT WORKFLOW
+## Project Workflow
 ## Dataset Info
 - The dataset is taken from Kaggle - (https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh)
 - Dataset contains 10683 rows and 11 columns
 - Features - Airline , Date of Journey, Source, destination, Route, Departure time, Arrival time, Duration, Total Stops, Additional info
+## Novelty
+- Price of flight ticket varies abruptly and it becomes hectic for a user to decide on different deals. A flight fare prediction model will help travellers with the optimal time to plan their travel and understand the trends in the airline industry.
 ## Future Scope
 - Work on larger data
 - Improve front end web design
